@@ -1,0 +1,11 @@
+* {
+  font-family: Rubik;
+  padding: 0;
+  margin: 0;
+}
+.full-image {
+  width: 100%; /* Full screen width */
+  height: auto; /* Maintain aspect ratio */
+  display: block; /* Remove small whitespace gap */
+  object-fit: cover; /* Optional - makes image look clean */
+}

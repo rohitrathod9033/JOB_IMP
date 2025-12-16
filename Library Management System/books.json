@@ -1,0 +1,119 @@
+[
+  {
+    "title": "Echoes of Time 104",
+    "author": "Isabella Lee",
+    "category": "Technology",
+    "publicationYear": 1980,
+    "totalCopies": 6,
+    "availableCopies": 8,
+    "status": "available"
+  },
+  {
+    "title": "The Eternal Flame 756",
+    "author": "Emma Watson",
+    "category": "Horror",
+    "publicationYear": 2013,
+    "totalCopies": 11,
+    "availableCopies": 3,
+    "status": "unavailable"
+  },
+  {
+    "title": "Hidden Truths 683",
+    "author": "David Miller",
+    "category": "Technology",
+    "publicationYear": 1985,
+    "totalCopies": 9,
+    "availableCopies": 3,
+    "status": "available"
+  },
+  {
+    "title": "Shadows of Tomorrow 692",
+    "author": "Michael Brown",
+    "category": "Mystery",
+    "publicationYear": 2023,
+    "totalCopies": 12,
+    "availableCopies": 2,
+    "status": "unavailable"
+  },
+  {
+    "title": "Echoes of Time 667",
+    "author": "Emma Watson",
+    "category": "Fantasy",
+    "publicationYear": 2014,
+    "totalCopies": 6,
+    "availableCopies": 5,
+    "status": "unavailable"
+  },
+  {
+    "title": "Beyond the Horizon 737",
+    "author": "David Miller",
+    "category": "Adventure",
+    "publicationYear": 1996,
+    "totalCopies": 19,
+    "availableCopies": 8,
+    "status": "available"
+  },
+  {
+    "title": "Hidden Truths 505",
+    "author": "Ava Davis",
+    "category": "Mystery",
+    "publicationYear": 1988,
+    "totalCopies": 13,
+    "availableCopies": 3,
+    "status": "unavailable"
+  },
+  {
+    "title": "Shadows of Tomorrow 941",
+    "author": "Michael Brown",
+    "category": "Fiction",
+    "publicationYear": 1964,
+    "totalCopies": 2,
+    "availableCopies": 6,
+    "status": "available"
+  },
+  {
+    "title": "Mind Over Matter 475",
+    "author": "Isabella Lee",
+    "category": "Romance",
+    "publicationYear": 2022,
+    "totalCopies": 16,
+    "availableCopies": 5,
+    "status": "available"
+  },
+  {
+    "title": "Hidden Truths 667",
+    "author": "Ethan Harris",
+    "category": "Horror",
+    "publicationYear": 2005,
+    "totalCopies": 13,
+    "availableCopies": 3,
+    "status": "unavailable"
+  },
+  {
+    "title": "Beyond the Horizon 859",
+    "author": "Michael Brown",
+    "category": "History",
+    "publicationYear": 1955,
+    "totalCopies": 3,
+    "availableCopies": 3,
+    "status": "available"
+  },
+  {
+    "title": "The Lost World 654",
+    "author": "Olivia Clark",
+    "category": "History",
+    "publicationYear": 2020,
+    "totalCopies": 5,
+    "availableCopies": 9,
+    "status": "unavailable"
+  },
+  {
+    "title": "Echoes of Time 977",
+    "author": "Liam Johnson",
+    "category": "Technology",
+    "publicationYear": 2023,
+    "totalCopies": 13,
+    "availableCopies": 10,
+    "status": "available"
+  }
+]

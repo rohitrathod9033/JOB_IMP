@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Shadows of Tomorrow 941",
+    "author": "Michael Brown",
+    "category": "Fiction",
+    "publicationYear": 1964,
+    "totalCopies": 2,
+    "availableCopies": 6,
+    "status": "available",
+    "thumbnail": "https://images.unsplash.com/photo-1554151228-14d9def656e4?auto=format&fit=crop&w=500&q=80"
+  },
+  {
+    "title": "The Lost Horizon",
+    "author": "Emily Carter",
+    "category": "Adventure",
+    "publicationYear": 1987,
+    "totalCopies": 10,
+    "availableCopies": 8,
+    "status": "available",
+    "thumbnail": "https://images.unsplash.com/photo-1528209392022-5ec4ab18ae8f?auto=format&fit=crop&w=500&q=80"
+  },
+  {
+    "title": "Whispers in the Dark",
+    "author": "Daniel Harris",
+    "category": "Thriller",
+    "publicationYear": 2002,
+    "totalCopies": 7,
+    "availableCopies": 2,
+    "status": "unavailable",
+    "thumbnail": "https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&w=500&q=80"
+  },
+  {
+    "title": "Echoes of Eternity",
+    "author": "Sophia Martinez",
+    "category": "Fantasy",
+    "publicationYear": 1999,
+    "totalCopies": 12,
+    "availableCopies": 12,
+    "status": "available",
+    "thumbnail": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=500&q=80"
+  },
+  {
+    "title": "The Quantum Paradox",
+    "author": "James Walker",
+    "category": "Science",
+    "publicationYear": 1978,
+    "totalCopies": 5,
+    "availableCopies": 1,
+    "status": "unavailable",
+    "thumbnail": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?auto=format&fit=crop&w=500&q=80"
+  },
+  {
+    "title": "Rise of the Phoenix",
+    "author": "Ava Thompson",
+    "category": "Fiction",
+    "publicationYear": 2010,
+    "totalCopies": 4,
+    "availableCopies": 4,
+    "status": "available",
+    "thumbnail": "https://images.unsplash.com/photo-1529655683826-aba9b3e77383?auto=format&fit=crop&w=500&q=80"
+  },
+  {
+    "title": "Digital Dreams",
+    "author": "Robert King",
+    "category": "Technology",
+    "publicationYear": 2021,
+    "totalCopies": 6,
+    "availableCopies": 5,
+    "status": "available",
+    "thumbnail": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?auto=format&fit=crop&w=500&q=80"
+  },
+  {
+    "title": "Gardens of Silence",
+    "author": "Lily Anderson",
+    "category": "Poetry",
+    "publicationYear": 1995,
+    "totalCopies": 3,
+    "availableCopies": 0,
+    "status": "unavailable",
+    "thumbnail": "https://images.unsplash.com/photo-1519682337058-a94d519337bc?auto=format&fit=crop&w=500&q=80"
+  },
+  {
+    "title": "Empire of Stars",
+    "author": "Nathan Scott",
+    "category": "Sci-Fi",
+    "publicationYear": 1984,
+    "totalCopies": 8,
+    "availableCopies": 3,
+    "status": "unavailable",
+    "thumbnail": "https://images.unsplash.com/photo-1528209392022-5ec4ab18ae8f?auto=format&fit=crop&w=500&q=80"
+  },
+  {
+    "title": "Voices Beneath the Earth",
+    "author": "Grace Mitchell",
+    "category": "Mystery",
+    "publicationYear": 1972,
+    "totalCopies": 9,
+    "availableCopies": 6,
+    "status": "available",
+    "thumbnail": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=500&q=80"
+  }
+]
